@@ -10,10 +10,10 @@
 </div>
 </div> -->
 ## Project Title
-# Certificate validity project using django
+# Video Playlist design using html css js
 # Project Description : 
 
-- **The Certificate Validity Project using Django is a web application designed to streamline the process of verifying the authenticity and validity of digital certificates. With a user-friendly interface, it allows users to -**
+- **Responsive Video Playlist design using html css js -**
 
 ## Project Version
 - **Version:** 1.0.0 
@@ -32,12 +32,8 @@
 ``` 
 git clone repository link
 
+Open with live server
 
-pip install pipenv
-pipenv shell
-pipenv install django
-
-python manage.py runsrver
 ```
 # Installation Guideline Video
 
